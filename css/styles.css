@@ -1,6 +1,8 @@
-.main_box{
+.birthday_form{
   height: 600px;
-  width: 600px;
-  background-color: green;
-  margin: auto;margin-top: 5%;
+  width: 80%;
+  margin: auto;margin-top: 2%;
+  border: 2px solid grey;
+  border-radius: 5%;
+  padding: 20px;
 }
