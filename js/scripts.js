@@ -16,13 +16,10 @@ years = document.getElementById("year").value.slice(2,4);
 years = parseInt(years);
 
 //checking for Validity and calculating day of the week
-if (month==='undefined'){
-  alert('Insert month');
-}
-else if (month<0 || month>12){
+if (month<1 || month>12){
   alert('Invalid Month');
 }
-else if (dayOfMonth<0 || dayOfMonth>31) {
+else if (dayOfMonth<1 || dayOfMonth>31) {
   alert('Invalid Day');
 }
 else {
