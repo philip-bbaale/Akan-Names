@@ -5,7 +5,7 @@ var maleNames = ['Kwasi','Kwadwo','Kwabena','Kwaku','Yaw','Kofi','Kwame'];
 var femaleNames = ['Akosua','Adwoa','Abenaa','Akua','Yaa','Afua','Ama'];
 
 //get imput
-function storeInput(){
+/*function storeInput(){
 //century = parseInt(document.getElementById("century").value);
 year = parseInt(document.getElementById("year").value);
 month = parseInt(document.getElementById("month").value);
@@ -44,10 +44,10 @@ if (selectedGender==1) {
     alert("Select Gender");
   }
   return gender;
-}
+}*/
 
 //finding akan names
-function akanNameFind(){
+/*function akanNameFind(){
   var newDayOfWeek = storeInput();
   var newGender = getGender();
   if(newGender==="male"){
@@ -59,4 +59,4 @@ function akanNameFind(){
   else {
     document.getElementById("answer").innerHTML=("Check your input please");
   }
-}
+}*/
