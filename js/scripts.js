@@ -54,7 +54,7 @@ function akanNameFind(){
     document.getElementById("answer").innerHTML=("You were born on " +days[newDayOfWeek] +" and your Akan name is. " +maleNames[newDayOfWeek]);
   }
   else if (newGender==="female") {
-    document.getElementById("answer").innerHTML=("You were born on " +days[newDayOfWeek] +" and your Akan name i.s " +femaleNames[newDayOfWeek]);
+    document.getElementById("answer").innerHTML=("You were born on " +days[newDayOfWeek] +" and your Akan name is. " +femaleNames[newDayOfWeek]);
   }
   else {
     document.getElementById("answer").innerHTML=("Check your input please");
