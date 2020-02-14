@@ -51,10 +51,10 @@ function akanNameFind(){
   var newDayOfWeek = storeInput();
   var newGender = getGender();
   if(newGender==="male"){
-    document.getElementById("answer").innerHTML=("You were born on " +days[newDayOfWeek] +" and your Akan name is. " +maleNames[newDayOfWeek]);
+    document.getElementById("answer").innerHTML=("You are a Male born on " +days[newDayOfWeek] +" and your Akan name is. " +maleNames[newDayOfWeek]);
   }
   else if (newGender==="female") {
-    document.getElementById("answer").innerHTML=("You were born on " +days[newDayOfWeek] +" and your Akan name is. " +femaleNames[newDayOfWeek]);
+    document.getElementById("answer").innerHTML=("You are a Female born on " +days[newDayOfWeek] +" and your Akan name is. " +femaleNames[newDayOfWeek]);
   }
   else {
     document.getElementById("answer").innerHTML=("Check your input please");
