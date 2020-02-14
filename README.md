@@ -37,9 +37,14 @@ Saturday: Ama
 
 Author(s) information: Namugera Bbaale Philip
 
-Setup instructions; Fill in all the fields and tap the check validity button to find out what your Akan name is.
+# Setup instructions:
+Fill in all the fields and tap the check validity button to find out what your Akan name is.
 
-Technologies used: html, css, bootstrap, js.
+# Technologies used: 
+* html, 
+* css, 
+* bootstrap, 
+* js.
 
 # BDD:
 Day of the week (d) = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) mod 7
