@@ -47,7 +47,7 @@ if (selectedGender==1) {
 }
 
 //finding akan names
-/*function akanNameFind(){
+function akanNameFind(){
   var newDayOfWeek = storeInput();
   var newGender = getGender();
   if(newGender==="male"){
@@ -59,4 +59,4 @@ if (selectedGender==1) {
   else {
     document.getElementById("answer").innerHTML=("Check your input please");
   }
-}*/
+}
