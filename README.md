@@ -1,4 +1,4 @@
-# Akan-Names
+### Akan-Names
 
 # Project name:Akan Naming.
 
@@ -35,10 +35,11 @@ Friday: Afua
 
 Saturday: Ama
 
-Author(s) information: Namugera Bbaale Philip
+# Author(s) information: 
+> Namugera Bbaale Philip
 
 # Setup instructions:
-Fill in all the fields and tap the check validity button to find out what your Akan name is.
+> Fill in all the fields and tap the check validity button to find out what your Akan name is.
 
 # Technologies used: 
 * html, 
@@ -61,8 +62,11 @@ Day of the week (d) = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD 
 
  mod - is the modulus function ( % )
  
+ # Known Bugs.
+ > Undefined akan name and day - probably for leap years.
+ 
 # Contact information.
-To collaborate, reach me on [Email](namugera.philip@gmail.com)
+> To collaborate, reach me on namugera.philip@gmail.com
 
 # License and Copyright information.
-> MIT License &copy 2020 PiP https://github.com/scrupycoco/Akan-Names/blob/master/LICENSE
+> GNU General Public License v3.0 &copy 2020 PiP https://github.com/scrupycoco/Akan-Names/blob/master/LICENSE
