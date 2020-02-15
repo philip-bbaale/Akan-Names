@@ -2,6 +2,9 @@
 
 # Project name:Akan Naming.
 
+# App Screenshot.
+<img src="https://github.com/scrupycoco/Akan-Names/blob/master/images/Screenshot%20from%202020-02-15%2018-22-25.png">
+
 # Project description:
 Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. Here are Ghanian day names.
 
