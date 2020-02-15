@@ -62,7 +62,7 @@ Day of the week (d) = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD 
  mod - is the modulus function ( % )
  
 # Contact information.
-To collaborate, reach me on namugera.philip@gmail.com
+> To collaborate, reach me on namugera.philip@gmail.com
 
 # License and Copyright information.
 > GNU General Public License v3.0 &copy 2020 PiP https://github.com/scrupycoco/Akan-Names/blob/master/LICENSE
