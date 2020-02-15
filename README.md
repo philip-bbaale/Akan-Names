@@ -62,6 +62,9 @@ Day of the week (d) = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD 
 
  mod - is the modulus function ( % )
  
+ # Known Bugs.
+ > Undefined akan name and day - probably for leap years.
+ 
 # Contact information.
 > To collaborate, reach me on namugera.philip@gmail.com
 
