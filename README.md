@@ -65,4 +65,4 @@ Day of the week (d) = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD 
 To collaborate, reach me on [Email](namugera.philip@gmail.com)
 
 # License and Copyright information.
-> MIT License &copy 2020 PiP https://github.com/scrupycoco/Akan-Names/blob/master/LICENSE
+> GNU General Public License v3.0 &copy 2020 PiP https://github.com/scrupycoco/Akan-Names/blob/master/LICENSE
