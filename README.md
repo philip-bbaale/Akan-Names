@@ -35,10 +35,11 @@ Friday: Afua
 
 Saturday: Ama
 
-Author(s) information: Namugera Bbaale Philip
+# Author(s) information: 
+> Namugera Bbaale Philip
 
 # Setup instructions:
-Fill in all the fields and tap the check validity button to find out what your Akan name is.
+> Fill in all the fields and tap the check validity button to find out what your Akan name is.
 
 # Technologies used: 
 * html, 
