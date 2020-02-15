@@ -56,4 +56,5 @@ function akanNameFind(){
   else {
     document.getElementById("answer").innerHTML=("Check your input please");
   }
+  document.querySelectorAll("#year, #month, #dayofmonth").value = "";
 }
