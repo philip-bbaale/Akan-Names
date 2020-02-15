@@ -1,4 +1,4 @@
-# Akan-Names
+### Akan-Names
 
 # Project name:Akan Naming.
 
